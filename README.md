@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandre O.</h1>
 <h3 align="center">Passionate about protecting data and computer systems against tomorrow's emerging threats, I am learning the world of cybersecurity on my own to enrich my knowledge</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=briiiochee&label=Profile%20views&color=0e75b6&style=flat" alt="briiiochee" /> </p>
+
 
 - 🔭 I’m currently working on **NexEduX**
 
