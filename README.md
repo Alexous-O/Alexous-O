@@ -12,14 +12,14 @@
 
 - 💬 Ask me about anything **on linkedin**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alexandre-olivier-1a87b3260/](https://www.linkedin.com/in/alexandre-olivier-1a87b3260/)
-
 - ⚡ Fun fact **digital creation, video games, cybersecurity**
+
 
 ## Contact me :
 
 - 📧 Email: briiiochee@gmail.com
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/alexandre-olivier-1a87b3260/)
+
 
 ## My interests :
 
@@ -28,6 +28,7 @@
 - Penetration Testing
 - Ethical Hacking
 - Cybersecurity Training
+
 
 ## Skills :
 
@@ -69,7 +70,6 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
 ![Visual-Studio-Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual-Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
 
 | <a href="https://github-readme-stats.vercel.app/api?username=alexous-o&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexous-o&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Statistiques GitHub d'Alexous" width="450"/></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alexous-o&layout=compact&theme=radical&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexous-o&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" width="335"/></a> |
 | ------------- | ------------- |
