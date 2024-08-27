@@ -2,6 +2,32 @@
 <h3 align="center">Passionate about protecting data and computer systems against tomorrow's emerging threats, I am learning the world of cybersecurity on my own to enrich my knowledge</h3>
 
 
+
+- 🔭 I'm currently working on **Kronos-Project**
+
+- 🌱 I am developing my projects related to **cybersecurity**
+
+- 🤝 I learn on different platforms **Youtube, TryHackMe, GIthub...**
+
+- 👨‍💻 All of my projects are available at [my github](https://github.com/Alexous-O)
+
+- 💬 Ask me about anything **on linkedin**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/alexandre-olivier-1a87b3260/](https://www.linkedin.com/in/alexandre-olivier-1a87b3260/)
+
+- ⚡ Fun fact **digital creation, video games, cybersecurity**
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alexandre-olivier-1a87b3260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexandre-olivier-1a87b3260/" height="30" width="40" /></a>
+</p>
+
+Contact me
+- 📧 Email: briiiochee@gmail.com
+- 💼 LinkedIn: LinkedIn
+
 My interests :
 
 - Network Security
