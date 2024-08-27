@@ -81,7 +81,7 @@
 *Description : Kronos is a website that allows victims of cyber-harassment, phishing, hacking to find help from professionals but also secure your websites by doing audits. It brings together a bunch of enthusiasts ready to help you.*
 
 ### TBA
-*Description : TBA *
+*Description : TBA*
 
 
 
