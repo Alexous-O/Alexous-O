@@ -52,12 +52,4 @@ My interests :
 ![Visual-Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexous-o&show_icons=true&locale=en&layout=compact&bg_color=141321" alt="alexous-o"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexous-o&show_icons=true&locale=en&bg_color=141321" alt="alexous-o"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexous-o&background=141321" alt="alexous-o"/></p>
-
-<a href="https://github-readme-stats.vercel.app/api?username=alexous-o&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexous-o&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Statistiques GitHub d'Alexous" width="450"/></a>
+<a href="https://github-readme-stats.vercel.app/api?username=alexous-o&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexous-o&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Statistiques GitHub d'Alexous" width="450"/></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alexous-o&layout=compact&theme=radical&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexous-o&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" width="335"/></a> |
