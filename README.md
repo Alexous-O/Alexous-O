@@ -60,4 +60,4 @@ My interests :
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexous-o&background=141321" alt="alexous-o"/></p>
 
-<a href="https://github-readme-stats.vercel.app/api?username=caroneloham&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=caroneloham&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Statistiques GitHub d'Eloham" width="450"/></a>
+<a href="https://github-readme-stats.vercel.app/api?username=alexous-o&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexous-o&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Statistiques GitHub d'Alexous" width="450"/></a>
