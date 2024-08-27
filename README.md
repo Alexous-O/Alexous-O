@@ -55,6 +55,11 @@ My interests :
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexous-o&show_icons=true&locale=en&layout=compact" alt="alexous-o" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexous-o&show_icons=true&locale=en" alt="alexous-o" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexous-o&" alt="alexous-o" /></p>
 
 
 
