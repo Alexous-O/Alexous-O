@@ -24,11 +24,10 @@
 
 ## My interests :
 
-- Network Security
-- Vulnerability Assessment
-- Penetration Testing
-- Ethical Hacking
-- Cybersecurity Training
+- :satellite: Network Security
+- :closed_lock_with_key: Vulnerability Assessment
+- :triangular_flag_on_post: Penetration Testing
+- :computer: Ethical Hacking
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 
