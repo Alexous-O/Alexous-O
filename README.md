@@ -73,6 +73,23 @@
 ![Visual-Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 
+
+## Projets
+### NexEdux
+*Description : NexusEduX is an online learning platform that connects IT learners to a wealth of courses, experts, and educational resources. With cutting-edge technology and quality pedagogy, NexusEduX offers a flexible and accessible learning experience, allowing everyone to explore, develop their skills, and realize their educational potential.*
+
+### Kronos
+*Description : Kronos is a website that allows victims of cyber-harassment, phishing, hacking to find help from professionals but also secure your websites by doing audits. It brings together a bunch of enthusiasts ready to help you.*
+
+### TBA
+*Description : TBA *
+
+
+
+
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
 | <a href="https://github-readme-stats.vercel.app/api?username=alexous-o&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexous-o&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Statistiques GitHub d'Alexous" width="450"/></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alexous-o&layout=compact&theme=radical&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexous-o&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" width="335"/></a> |
