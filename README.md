@@ -6,7 +6,7 @@
 
 - 🌱 I am developing my projects related to **cybersecurity**
 
-- 🤝 I learn on different platforms **Youtube, TryHackMe, GIthub...**
+- 🤝 I learn on different platforms **Youtube, TryHackMe, Github...**
 
 - 👨‍💻 All of my projects are available at [my github](https://github.com/Alexous-O)
 
