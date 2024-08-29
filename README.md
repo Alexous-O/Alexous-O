@@ -91,3 +91,4 @@ const me = developers.find(dev => dev.name === 'Briiiochee')
 
 | <a href="https://github-readme-stats.vercel.app/api?username=alexous-o&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexous-o&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Statistiques GitHub d'Alexous" width="450"/></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alexous-o&layout=compact&theme=radical&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexous-o&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" width="335"/></a> |
 | ------------- | ------------- |
+
