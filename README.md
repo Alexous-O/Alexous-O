@@ -12,7 +12,7 @@ const me = developers.find(dev => dev.name === 'Briiiochee')
 
 - 🤝 I learn on different platforms **Youtube, TryHackMe, Github...**
 
-- 👨‍💻 All of my projects are available at [my github](https://github.com/Alexous-O)
+- 👨‍💻  All of my infos are available at [my portfolio](https://alexandre-olivier-portfolio.vercel.app/)
 
 - 💬 Ask me about anything **on linkedin**
 
