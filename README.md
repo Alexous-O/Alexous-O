@@ -22,7 +22,7 @@ const me = developers.find(dev => dev.name === 'Briiiochee')
 
 ## Contact me :
 
-- 📧 Email: briiiochee@gmail.com
+- 📧 Email: olivier.alexandre44@gmail.com
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/alexandre-olivier-1a87b3260/)
 
 
