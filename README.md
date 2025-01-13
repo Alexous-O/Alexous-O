@@ -8,19 +8,13 @@
 
 - 🤝 I learn on different platforms **Youtube, TryHackMe, Github...**
 
-- 👨‍💻  All of my infos are available at [my portfolio](https://alexandre-olivier-portfolio.vercel.app/)
+- 👨‍💻  All of my infos are available at my portfolio
 
 - 💬 Ask me about anything **on linkedin**
 
 - ⚡ Fun fact **digital creation, video games, cybersecurity**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
-
-## Contact me :
-
-- 📧 Email: olivier.alexandre44@gmail.com 
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/alexandre-olivier-1a87b3260/)
-
 
 ## My interests :
 
